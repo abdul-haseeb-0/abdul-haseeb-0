@@ -67,9 +67,9 @@
 ### 📫 **Connect With Me**
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/abdul-haseeb-980075323/)" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%B6-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="ah673277@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%A7-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://github.com/YourGitHubUsername](https://github.com/Abdul-Haseeb-AI)" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%9D-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/abdul-haseeb-980075323/)" target="_blank"><img src="[https://img.shields.io/badge/%F0%9F%93%B6-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-701751694779193uxxevujc5p.png)" /></a>
+  <a href="ah673277@gmail.com" target="_blank"><img src="[https://img.shields.io/badge/%F0%9F%93%A7-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://i.pinimg.com/736x/ae/47/fa/ae47fa9a8fd263aa364018517020552d.jpg)" /></a>
+  <a href="[https://github.com/YourGitHubUsername](https://github.com/Abdul-Haseeb-AI)" target="_blank"><img src="[https://img.shields.io/badge/%F0%9F%93%9D-181717?style=for-the-badge&logo=github&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYZl4Yf0aGwj8FPEOmjhG1ODkzi6gjbB9lw&s)" /></a>
 </p>
 
 ---
