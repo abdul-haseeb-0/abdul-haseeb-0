@@ -62,9 +62,6 @@
   <a href="https://www.linkedin.com/in/abdul-haseeb-980075323/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTew8egIsPSdRogsqaHe4Ei1r8miaH9kxAfqA&s" alt="LinkedIn" width="50" />
   </a>
-  <a href="ah673277@gmail.com" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4nd82eFk5SaBPRIeCpmwL7A4YSokA-kXSmw&s" alt="Email" width="50" />
-  </a>
   <a href="https://github.com/Abdul-Haseeb-AI" target="_blank">
     <img src="https://banner2.cleanpng.com/20180418/siw/kisspng-github-pages-random-icons-5ad6e9863397c7.5716118315240339262113.jpg" alt="GitHub" width="50" />
   </a>
