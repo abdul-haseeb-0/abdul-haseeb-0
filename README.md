@@ -69,7 +69,6 @@
     <img src="https://banner2.cleanpng.com/20180418/siw/kisspng-github-pages-random-icons-5ad6e9863397c7.5716118315240339262113.jpg" alt="GitHub" width="50" />
   </a>
 </p>
-(https://i.pinimg.com/736x/ae/47/fa/ae47fa9a8fd263aa364018517020552d.jpg)" /></a>
   <a href="https://github.com/Abdul-Haseeb-AI" target="_blank"><img src="[https://img.shields.io/badge/%F0%9F%93%9D-181717?style=for-the-badge&logo=github&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYZl4Yf0aGwj8FPEOmjhG1ODkzi6gjbB9lw&s)" /></a>
 </p>
 
