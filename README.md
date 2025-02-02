@@ -39,14 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-views.vercel.app/api?username=YourGitHubUsername&count_private=true&theme=radical" alt="GitHub Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/YourGitHubUsername/YourRepoName?style=social" alt="GitHub Stars" />
-</p>
-
 
 ### 📚 **Top Repositories**
 
@@ -78,7 +70,7 @@
   </a>
 </p>
 (https://i.pinimg.com/736x/ae/47/fa/ae47fa9a8fd263aa364018517020552d.jpg)" /></a>
-  <a href="[https://github.com/YourGitHubUsername](https://github.com/Abdul-Haseeb-AI)" target="_blank"><img src="[https://img.shields.io/badge/%F0%9F%93%9D-181717?style=for-the-badge&logo=github&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYZl4Yf0aGwj8FPEOmjhG1ODkzi6gjbB9lw&s)" /></a>
+  <a href="https://github.com/Abdul-Haseeb-AI" target="_blank"><img src="[https://img.shields.io/badge/%F0%9F%93%9D-181717?style=for-the-badge&logo=github&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYZl4Yf0aGwj8FPEOmjhG1ODkzi6gjbB9lw&s)" /></a>
 </p>
 
 ---
