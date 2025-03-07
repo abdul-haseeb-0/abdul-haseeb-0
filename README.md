@@ -5,7 +5,7 @@
 <div align="center">
 # **Abdul Haseeb** 🌟
 ### *AI Engineer | Data Scientist | Python Enthusiast | Prompt Engineer*
-<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue)
 </div>
 
