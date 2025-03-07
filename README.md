@@ -1,66 +1,55 @@
-### 👋 Welcome to My GitHub Profile
+### Hi Everyone👋, Welcome to My Profile
+
+---
 
 <div align="center">
-
 # **Abdul Haseeb** 🌟
-
-### *Generative AI | Data Scientist | Python Enthusiast | Prompt Engineer* 🚀
-
+### *AI Engineer | Data Scientist | Python Enthusiast | Prompt Engineer*
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue)
-
 </div>
 
 ---
 
 ## 🌟 About Me
-- 🎓 **Generative AI & Data Sciences Engineer**
-- 🧠 **Data Structures & Algorithms Expert**
-- 🤖 **Innovator:** Building AI Chatbots, RAG Applications, and Crypto Trading Indicators
-- 📚 **Lifelong Learner:** Continuously evolving with emerging tech trends
+A passionate AI Developer and Data Science Engineer with expertise in Gen AI, Prompt Engineering and Automation. Skilled in building cutting-edge AI applications, optimizing algorithms, and deploying solutions on Hugging Face. A fast learner, problem-solver, and mentor who thrives in collaborative environments. Dedicated to continuous innovation, research and contributing to the AI community
 
 ---
 
 ## 🚀 Tech Stack
-
-| **Languages & Tools**        | **Icons** |
-| ---------------------------- | --------- |
-| Python, Streamlit, FastAPI   | 🐍⚡🌐     |
-| Git, GitHub                  | 🔧         |
-| Linux & MySQL                | 🐧📊       |
+- Generative AI
+- Agentic AI
+- python
+- Accounting
+- Graphic Designing
+- poetry env
+- SQL / No-SQL
+- FastAPI
+  
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,html,css,js,java,cpp,git,github,linux,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,git,github,linux,sql, nosql, ai" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-haseeb-0&theme=dark&show_icons=true" />
+---
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdul%20Haseeb&theme=highcontrast&short_numbers=true&card_width=600)](https://git.io/streak-stats)
 </div>
-
+  ---
+    
+    ## 🔥 Featured Projects
+    - **[AI Code Generator]([https://github.com/YourGitHubUsername/AI-Code-Generator](https://github.com/abdul-haseeb-0/smart-code-generator.git))**  
+      - **Status:** ✅ Completed
+    - **[Agentic AI]([https://github.com/YourGitHubUsername/Crypto-Indicator](https://github.com/abdul-haseeb-0/agentic-ai.git))** 
+      - **Status:** 🚧 In Progress
+    - **[NeuroGuard (Healthcare)]([https://github.com/YourGitHubUsername/AI-Healthcare-Chatbot](https://github.com/abdul-haseeb-0/NeuroGuard.git))**
+      - **Status:** 🔜 Planned
+  
 ---
-
-## 🔥 Featured Projects
-- **[AI Code Generator](https://github.com/YourGitHubUsername/AI-Code-Generator)**
-  - *Generates clean, efficient code using StarCoder & Groq API.*  
-  - **Status:** ✅ Completed
-- **[Crypto Trading Indicator](https://github.com/YourGitHubUsername/Crypto-Indicator)**
-  - *AI-powered trading tool with real-time analysis & CoinMarketCap API.*  
-  - **Status:** 🚧 In Progress
-- **[AI Chatbot (Healthcare)](https://github.com/YourGitHubUsername/AI-Healthcare-Chatbot)**
-  - *Deployed on Hugging Face using FastAPI and Llama LLM.*  
-  - **Status:** 🔜 Planned
-
----
-
-## 🎯 Achievements & Goals
-
-### Achievements
-- ✅ Developed an AI Llama-based code generator  
-- ✅ Successfully deployed multiple AI models on Hugging Face
 
 ### Upcoming Goals
 1. 🚀 **Real-time AI Chatbot** for Education, Healthcare, and Finance
@@ -69,15 +58,20 @@
 
 ---
 
-## 📆 Project Roadmap
-
-| **Milestone**                 | **Status**      | **Timeline** |
-| ----------------------------- | --------------- | ------------ |
-| AI Code Generator             | Completed       | Q1 2023      |
-| Crypto Trading Indicator      | In Progress     | Q2 2023      |
-| AI Chatbot (Healthcare)       | Planned         | Q3 2023      |
-| Real-time AI Chatbot          | Upcoming        | Q4 2023      |
-
+### 📫 **Connect With Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-haseeb-980075323/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTew8egIsPSdRogsqaHe4Ei1r8miaH9kxAfqA&s" alt="LinkedIn" width="50" />
+  </a>
+  <br>
+  <a href="[https://github.com/abdul-haseeb-0](https://github.com/abdul-haseeb-0)" target="_blank">
+    <img src="https://banner2.cleanpng.com/20180418/siw/kisspng-github-pages-random-icons-5ad6e9863397c7.5716118315240339262113.jpg" alt="GitHub" width="50" />
+  </a>
+</p>
+  <a href="https://github.com/abdul-haseeb-0" target="_blank"><img src="[https://img.shields.io/badge/%F0%9F%93%9D-181717?style=for-the-badge&logo=github&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYZl4Yf0aGwj8FPEOmjhG1ODkzi6gjbB9lw&s)" /></a>
+</p>
+---
+### **"Code. Learn. Build. Repeat."** 🚀
 ```mermaid
 flowchart TD
     A[Start: Passion for AI] --> B[Learn Data Structures & Algorithms]
