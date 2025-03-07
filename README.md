@@ -66,13 +66,13 @@ A passionate AI Developer and Data Science Engineer with expertise in Gen AI, Pr
 ### 📫 **Connect With Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-haseeb-980075323/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
   </a>
   <a href="https://github.com/abdul-haseeb-0" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" alt="GitHub" width="50" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
   </a>
   <a href="https://huggingface.co/Haseeb-001" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" />
+    <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="50" />
   </a>
 </p>
   <a href="https://github.com/abdul-haseeb-0" target="_blank"><img src="[https://img.shields.io/badge/%F0%9F%93%9D-181717?style=for-the-badge&logo=github&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYZl4Yf0aGwj8FPEOmjhG1ODkzi6gjbB9lw&s)" /></a>
