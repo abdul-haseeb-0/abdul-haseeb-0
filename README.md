@@ -69,7 +69,7 @@ A passionate AI Developer and Data Science Engineer with expertise in Gen AI, Pr
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" />
   </a>
   <a href="https://github.com/abdul-haseeb-0" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" alt="GitHub" width="50" />
   </a>
   <a href="https://huggingface.co/Haseeb-001" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50" />
