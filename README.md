@@ -3,10 +3,13 @@
 ---
 
 <div align="center">
+
 # **Abdul Haseeb** 🌟
-### *AI Engineer | Data Scientist | Python Enthusiast | Prompt Engineer*
+
+### *Generative AI | Data Scientist | Python Enthusiast | Prompt Engineer* 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue)
+
 </div>
 
 ---
@@ -37,17 +40,19 @@ A passionate AI Developer and Data Science Engineer with expertise in Gen AI, Pr
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdul-haseeb-0&theme=dark&show_icons=true" />
-  <br>
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdul%20Haseeb&theme=highcontrast&short_numbers=true&card_width=600)](https://git.io/streak-stats)
 </div>
+
 ---
+
 ## 🔥 Featured Projects
-    - **[AI Code Generator]([https://github.com/YourGitHubUsername/AI-Code-Generator](https://github.com/abdul-haseeb-0/smart-code-generator.git))**  
-      - **Status:** ✅ Completed
-    - **[Agentic AI]([https://github.com/YourGitHubUsername/Crypto-Indicator](https://github.com/abdul-haseeb-0/agentic-ai.git))** 
-      - **Status:** 🚧 In Progress
-    - **[NeuroGuard (Healthcare)]([https://github.com/YourGitHubUsername/AI-Healthcare-Chatbot](https://github.com/abdul-haseeb-0/NeuroGuard.git))**
-      - **Status:** 🔜 Planned
+- **[AI Code Generator]([https://github.com/YourGitHubUsername/AI-Code-Generator](https://github.com/abdul-haseeb-0/smart-code-generator.git))**  
+  - **Status:** ✅ Completed
+- **[Agentic AI]([https://github.com/YourGitHubUsername/Crypto-Indicator](https://github.com/abdul-haseeb-0/agentic-ai.git))** 
+  - **Status:** 🚧 In Progress
+- **[NeuroGuard (Healthcare)]([https://github.com/YourGitHubUsername/AI-Healthcare-Chatbot](https://github.com/abdul-haseeb-0/NeuroGuard.git))**
+  - **Status:** 🔜 Planned
 
 ---
 
