@@ -5,6 +5,7 @@
 <div align="center">
 # **Abdul Haseeb** 🌟
 ### *AI Engineer | Data Scientist | Python Enthusiast | Prompt Engineer*
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue)
 </div>
 
@@ -36,19 +37,18 @@ A passionate AI Developer and Data Science Engineer with expertise in Gen AI, Pr
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdul-haseeb-0&theme=dark&show_icons=true" />
----
+  <br>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdul%20Haseeb&theme=highcontrast&short_numbers=true&card_width=600)](https://git.io/streak-stats)
 </div>
-  ---
-    
-    ## 🔥 Featured Projects
+---
+## 🔥 Featured Projects
     - **[AI Code Generator]([https://github.com/YourGitHubUsername/AI-Code-Generator](https://github.com/abdul-haseeb-0/smart-code-generator.git))**  
       - **Status:** ✅ Completed
     - **[Agentic AI]([https://github.com/YourGitHubUsername/Crypto-Indicator](https://github.com/abdul-haseeb-0/agentic-ai.git))** 
       - **Status:** 🚧 In Progress
     - **[NeuroGuard (Healthcare)]([https://github.com/YourGitHubUsername/AI-Healthcare-Chatbot](https://github.com/abdul-haseeb-0/NeuroGuard.git))**
       - **Status:** 🔜 Planned
-  
+
 ---
 
 ### Upcoming Goals
@@ -63,7 +63,6 @@ A passionate AI Developer and Data Science Engineer with expertise in Gen AI, Pr
   <a href="https://www.linkedin.com/in/abdul-haseeb-980075323/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTew8egIsPSdRogsqaHe4Ei1r8miaH9kxAfqA&s" alt="LinkedIn" width="50" />
   </a>
-  <br>
   <a href="[https://github.com/abdul-haseeb-0](https://github.com/abdul-haseeb-0)" target="_blank">
     <img src="https://banner2.cleanpng.com/20180418/siw/kisspng-github-pages-random-icons-5ad6e9863397c7.5716118315240339262113.jpg" alt="GitHub" width="50" />
   </a>
@@ -72,6 +71,7 @@ A passionate AI Developer and Data Science Engineer with expertise in Gen AI, Pr
 </p>
 ---
 ### **"Code. Learn. Build. Repeat."** 🚀
+
 ```mermaid
 flowchart TD
     A[Start: Passion for AI] --> B[Learn Data Structures & Algorithms]
