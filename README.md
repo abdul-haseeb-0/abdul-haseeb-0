@@ -55,7 +55,7 @@
 ## 💡 **Featured Innovations**
 
 ### **AI Development**
-[![AstraCode | AI Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=abdul-haseeb-0&repo=smart-code-generator&theme=radical)]([https://github.com/abdul-haseeb-0/smart-code-generator](https://github.com/abdul-haseeb-0/astracode))
+[![AstraCode | AI Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=abdul-haseeb-0&repo=astracode&theme=radical)]([https://github.com/abdul-haseeb-0/smart-code-generator](https://github.com/abdul-haseeb-0/astracode))
 - Automated code generation across multiple languages
 - Reduced manual coding time by 40%
 
