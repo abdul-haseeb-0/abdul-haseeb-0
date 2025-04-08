@@ -3,13 +3,14 @@
 <div align="center">
   
 # **Abdul Haseeb** 🌟
-### *Cloud Native Applied AI Engineer | Generative AI Specialist | Data Scientist* 🚀
+### *Cloud Native Applied AI Engineer | Generative AI Specialist | Data Scientist | Accountant*
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdul-haseeb-0&style=flat-square&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-haseeb-980075323/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Haseeb-001)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah673277@gmail.com)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=abdul-haseeb-0&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/abdul-haseeb-0)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdul-haseeb-0.abdul-haseeb-0)](https://github.com/abdul-haseeb-0)
+[![Followers](https://img.shields.io/github/followers/abdul-haseeb-0?label=Follow&style=social)](https://github.com/abdul-haseeb-0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-haseeb-980075323/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah673277@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Haseeb-001)
 </div>
 
 ---
