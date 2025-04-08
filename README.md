@@ -5,24 +5,23 @@
 # **Abdul Haseeb** 🌟
 ### *Cloud Native Applied AI Engineer | Generative AI Specialist | Data Scientist | Accountant*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abdul-haseeb-0&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/abdul-haseeb-0)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=abdul-haseeb-0.abdul-haseeb-0)](https://github.com/abdul-haseeb-0)
-[![Followers](https://img.shields.io/github/followers/abdul-haseeb-0?label=Follow&style=social)](https://github.com/abdul-haseeb-0)
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://abdul-haseeb-0.github.io/abdul-haseeb-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-haseeb-980075323/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah673277@gmail.com)
 [![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Haseeb-001)
+
 </div>
 
 ---
 
 ## 🚀 **About Me**
-**AI Innovator** with expertise in building production-ready solutions combining **Generative AI**, **Cloud Native Development**, and **Business Process Automation**. Passionate about creating AI-powered applications that solve real-world problems across healthcare, finance, and education sectors.
+**AI Innovator** with expertise in building production-ready solutions combining **Generative AI**, **Cloud Native Development**, and **Business Process Automation**. Passionate about creating AI-powered applications that solve real-world problems across healthcare, finance, business and education sectors.
 
 **Key Achievements:**
-- 🏆 Developed AI applications that reduced manual workloads by 70%
-- ⚡ Created chatbots improving query resolution time by 50%
-- 📈 Enhanced data retrieval efficiency by 60% using RAG workflows with FAISS
-- 💼 Managed financial systems for multiple businesses while developing AI solutions
+- 🏆 Developed AI applications that reduced manual workloads.
+- ⚡ Created chatbots improving query resolution time.
+- 📈 Enhanced data retrieval efficiency using RAG workflows with FAISS.
 
 ---
 
@@ -32,22 +31,22 @@
 - **Generative AI:** RAG Architectures, LLM Fine-tuning, AI Agent Development
 - **Cloud Native:** Hugging Face Deployment, FastAPI, Docker
 - **Data Science:** Pandas, NumPy, OpenCV, SQL/NoSQL
-- **Business Integration:** Financial Forecasting, Process Automation, AI-Driven Analytics
+- **Business Accounting:** Financial Forecasting, Process Automation, AI-Driven Analytics
+
+---
 
 ### **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,git,github,docker,linux,postgresql,mongodb,aws,gcp,ai" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,git,github,postgresql,mongodb,ai,excel" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 📈 **GitHub Analytics**
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-haseeb-0&theme=dark&show_icons=true" />
   
-  <a href="https://github.com/abdul-haseeb-0">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdul-haseeb-0&show_icons=true&theme=radical&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-haseeb-0&theme=radical" />
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdul%20Haseeb&theme=highcontrast&short_numbers=true&card_width=600)](https://git.io/streak-stats)
   
 </div>
 
@@ -56,7 +55,7 @@
 ## 💡 **Featured Innovations**
 
 ### **AI Development**
-[![AI Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=abdul-haseeb-0&repo=smart-code-generator&theme=radical)](https://github.com/abdul-haseeb-0/smart-code-generator)
+[![AstraCode | AI Code Generator](https://github-readme-stats.vercel.app/api/pin/?username=abdul-haseeb-0&repo=smart-code-generator&theme=radical)]([https://github.com/abdul-haseeb-0/smart-code-generator](https://github.com/abdul-haseeb-0/astracode))
 - Automated code generation across multiple languages
 - Reduced manual coding time by 40%
 
@@ -64,52 +63,38 @@
 - Advanced AI agent framework for complex workflows
 - Currently implementing multi-agent collaboration
 
-### **Healthcare AI**
-[![NeuroGuard](https://github-readme-stats.vercel.app/api/pin/?username=abdul-haseeb-0&repo=NeuroGuard&theme=radical)](https://github.com/abdul-haseeb-0/NeuroGuard)
-- Real-time emergency medical assistance system
-- Integrated with hospital alert systems
-
-[![MediCall](https://github-readme-stats.vercel.app/api/pin/?username=abdul-haseeb-0&repo=MediCall&theme=radical)](https://github.com/abdul-haseeb-0/MediCall)
-- AI-powered patient condition assessment
-- Geo-aware hospital alert system
-
 ---
 
 ## 🏆 **Professional Journey**
 
 ### **AI Development Experience**
-**Lead AI Developer** | Self-Employed *(Jan 2024 - Present)*
+**AI Developer** | Self-Employed *(Jan 2024 - Present)*
 - Architected RAG systems with FAISS vector databases
-- Developed enterprise chatbots reducing support costs by 30%
-- Implemented CI/CD pipelines for AI model deployment
+- Developed AI chatbots using multiple LLMs.
 
-**AI Solutions Consultant** | Local Businesses *(Mar 2024 - Present)*
-- Automated financial reporting systems
-- Developed AI-powered inventory management solutions
+**Accountant** | Local Businesses *(Mar 2024 - Present)*
+- Managing financial records and bookkeeping for local businesses. 
+- Developing an AI chatbot for automated employee reporting. 
 
 ### **Education & Certifications**
 **Intermediate in Computer Science**  
-*Superior College Faisalabad (2023-2024)* - 90.7% GPA
+*Superior College Faisalabad (2023-2024)* - 998/1200
 
 **Professional Certifications:**
-- Generative AI Specialization (iCodeGuru)
-- Advanced Python & Algorithms (Aptech)
+- Generative AI Specialization (Aptech)
+- Advanced Python & Algorithms (SMIT)
 - Cloud-Native AI Development (SMIT - Ongoing)
 
 ---
 
 ## 🌟 **Upcoming Missions**
 1. 🧠 **Enterprise AI Chatbot Framework** for cross-industry applications
-2. 📊 **Open-Source Financial AI Toolkit** with predictive modeling
-3. 🤖 **Multi-Agent AI System** for complex workflow automation
-4. 🌐 **Community Education:** AI tutorial series on YouTube
+2. 📊 **Open-Source Financial AI Bots** with predictive modeling
+3. 🤖 **Agentic AI System** for complex workflow automation
 
 ---
 
 <div align="center">
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabdul-haseeb-0&label=PROFILE%20VIEWS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fabdul-haseeb-0)
-  
 **Let's Build the Future of AI Together!** 🚀
 
 </div>
